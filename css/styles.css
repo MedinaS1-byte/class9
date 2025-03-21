@@ -15,12 +15,12 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {font-family: "Playfair Display", serif;
-    background-color: #025159;
-	color: white;
+    background-color:lightblue;
+	color: violet;
 }
 
 .resume-main {
-	background-color: #049DBF;
+	background-color: #3F6CA6;
 	color: white;
 }
 
@@ -42,7 +42,7 @@ body {
 
 .biography-details li::before {
 	color: #EE7623;
-	background-color: aqua;
+	
 }
 
 .biography-details li, .skill-list li {
