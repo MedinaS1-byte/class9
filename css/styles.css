@@ -20,7 +20,7 @@ body {
 }
 
 .resume-main {
-	background-color: #BFA393;
+	background-color: #049DBF;
 	color: white;
 }
 
@@ -37,6 +37,7 @@ body {
 	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
+	background-color:aquamarine
 }
 
 .biography-details li::before {
