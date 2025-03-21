@@ -16,10 +16,11 @@ body {
 
 .resume-header {font-family: "Playfair Display", serif;
     background-color: #A60321;
+	color: white;
 }
 
 .resume-main {
-	background-color: #A6032F;
+	background-color: #BFA393;
 }
 
 .resume-aside {
