@@ -42,11 +42,12 @@ body {
 
 .biography-details li::before {
 	color: #EE7623;
+	background-color: aqua;
 }
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
-	background-color: aqua;
+	
 }
 
 /* Styles for contact icons */
