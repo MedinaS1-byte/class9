@@ -2,6 +2,7 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 /* Styles for the body */
 
@@ -13,7 +14,7 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
-.resume-header {
+.resume-header {font-family: "Playfair Display", serif;
     background-color: #e0f0ff;
 }
 
