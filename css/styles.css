@@ -37,7 +37,7 @@ body {
 	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
-	background-color:aquamarine
+	
 }
 
 .biography-details li::before {
@@ -46,6 +46,7 @@ body {
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
+	background-color: aqua;
 }
 
 /* Styles for contact icons */
