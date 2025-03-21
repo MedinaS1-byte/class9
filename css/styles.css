@@ -9,7 +9,7 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: #025159;
+	background-color: white;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -21,10 +21,12 @@ body {
 
 .resume-main {
 	background-color: #BFA393;
+	color: white;
 }
 
 .resume-aside {
 	background-color: #03738C;
+	color: white;
 }
 
 /* Styles for lists in the document */
@@ -43,7 +45,7 @@ body {
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
-background-color:aquamarine
+}
 
 /* Styles for contact icons */
 
